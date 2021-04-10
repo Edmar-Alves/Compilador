@@ -1,4 +1,5 @@
-# Compilador
+# Interpretador
+
 Um interpretador de uma calculadora, feito em C++, utilizado como trabalho final da matéria de Compiladores.
 
 Os relatórias a cerca do código estão presentes num pdf junto ao arquivo. 
